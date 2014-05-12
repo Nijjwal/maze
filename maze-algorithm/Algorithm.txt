@@ -1,0 +1,14 @@
+Algorithm
+
+1. Download necessary files and create maze.js file
+2. Popup alert box when user clicks on start.
+3. Modify txt inside on element when user clicks on end. 
+4. Change boundary block color of all classes that have "boundary"
+as class value to red when user hover over any wall and declare looser.
+5. Keep track of "You win!".
+6. Once you win, lock all cells or lock blocks & color to avoid false alarm.
+7.  s = hover = game starts
+    s = click = game resets
+8. After the user hovers over the start icon, start timer and call the function
+   that declares looser if the game has not yet won
+9. check boundary to avoid cheating. 
